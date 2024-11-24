@@ -1,0 +1,30 @@
+for initialize vercel.json file
+
+{
+   "version": 2,
+   "builds": [
+      {
+         "src":"dist/server.js",
+         "use": "@vercel/node"
+      }
+   ],
+   "routes":[
+      {
+         "src":"/(.*)",
+         "dest":"dist/server.js"
+
+      }
+   ]
+}
+installing vercel globaly 
+npm i -g vercel
+check install or not
+vercel -v
+for vercel login another process
+vercel login [select one]
+then build for vercelvercel --prod
+setup deply ---> yes
+project name
+[now check given vercel link ]
+---live vercel link
+https://carstore-backend-node.vercel.app/
