@@ -87,6 +87,10 @@ api/cars/carID
   "price": 35000,
   "quantity": 5
 }
+get by category
+{
+  "category":"Sedan"
+}
 
 
 
