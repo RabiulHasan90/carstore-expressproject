@@ -122,5 +122,7 @@ total price
 const totalPrice = car.price * quantity;
 
 for submission
-https://carstore-backend-node.vercel.app/
-https://github.com/RabiulHasan90/carstore-expressproject
+Project Name : car-store
+live link:  https://carstore-backend-node.vercel.app/
+repo link: https://github.com/RabiulHasan90/carstore-expressproject
+video presentation: https://drive.google.com/file/d/1sl44xLN0tke6gsUcobtLo_IMf6CtEEQk/view
